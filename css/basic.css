@@ -59,8 +59,14 @@ table {
 
 body {
     font-family:Verdana;
+    background-color:#faf8f2;
+    color:#786f66;
 }
 
+img {
+    float:left;
+    margin-right:10px;
+}
 
 
 #container {
@@ -84,9 +90,21 @@ body {
     background-position:bottom;
 }
 
+#content {
+    float:left;
+    padding:12px;
+    background-color:#e8e5d1;
+}
+
 #maincontent {
     float:left;
     width:65%;
+    font-size: 0.8em;
+}
+
+#maincontent h1 {
+    font:2em "Times New Roman";
+    margin:5px 0 10px 0;
 }
 
 #subcontent {
@@ -95,7 +113,7 @@ body {
 }
 
 #bottomcontent {
-    float:left;
+    clear:both;
 }
 
 #menu {
@@ -129,6 +147,7 @@ body {
 
 #menu ul li.active a,
 #menu ul li.active a:hover {
+    margin-top:1px;
     background-color:#e8e5d1;
     color:#786f66;
 }
