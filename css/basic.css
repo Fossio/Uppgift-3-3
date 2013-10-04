@@ -112,8 +112,21 @@ img {
     width:33%;
 }
 
+/* copyright-texten på bilden matchar inte den i html-dokumentet, därför ersätter vi den nedan. */
 #bottomcontent {
     clear:both;
+    visibility:hidden;
+    font-style:italic;
+    font-size:0.6em;
+}
+
+#bottomcontent:after {
+    content:'\00a9 Högskolan i Kalmar, Institutionen för kommunikation och design';
+    clear:both;
+    margin-left:-280px;
+    visibility:visible;
+    font-style:italic;
+    font-size:1em;
 }
 
 #menu {

@@ -109,3 +109,23 @@
 {"ts":1380888966326,"patch":[[{"diffs":[[0,"faf8f2;\n"],[1,"    color:#786f66;\n"],[0,"}\n\nimg {"]],"start1":1264,"start2":1264,"length1":16,"length2":35}]],"length":2608,"saved":false}
 {"ts":1380889050046,"patch":[[{"diffs":[[0,"th:65%;\n"],[1,"    font: 0.8em;\n"],[0,"}\n\n#main"]],"start1":1864,"start2":1864,"length1":16,"length2":33}]],"length":2625,"saved":false}
 {"ts":1380889055868,"patch":[[{"diffs":[[0,"    font"],[1,"-size"],[0,": 0.8em;"]],"start1":1872,"start2":1872,"length1":16,"length2":21}]],"length":2630,"saved":false}
+{"ts":1380889334635,"patch":[[{"diffs":[[0,"r:both;\n"],[1,"    font:italic 0.5em;\n"],[0,"}\n\n#menu"]],"start1":2049,"start2":2049,"length1":16,"length2":39}]],"length":2653,"saved":false}
+{"ts":1380889364139,"patch":[[{"diffs":[[0,"font"],[1,"-style"],[0,":italic"],[-1," 0.5em"],[1,";\n    font-size:#786f66"],[0,";\n}\n"]],"start1":2061,"start2":2061,"length1":21,"length2":44}]],"length":2676,"saved":false}
+{"ts":1380889374536,"patch":[[{"diffs":[[0,"nt-size:"],[-1,"#786f66"],[1,"0.5em"],[0,";\n}\n\n#me"]],"start1":2086,"start2":2086,"length1":23,"length2":21}]],"length":2674,"saved":false}
+{"ts":1380889380695,"patch":[[{"diffs":[[0,"-size:0."],[-1,"5"],[1,"6"],[0,"em;\n}\n\n#"]],"start1":2088,"start2":2088,"length1":17,"length2":17}]],"length":2674,"saved":false}
+{"ts":1380889599564,"patch":[[{"diffs":[[0,"r:both;\n"],[1,"    display:none;\n"],[0,"    font"]],"start1":2049,"start2":2049,"length1":16,"length2":34}]],"length":2692,"saved":false}
+{"ts":1380889626865,"patch":[[{"diffs":[[0,"ize:0.6em;\n}"],[1,"\n#bottomcontent:after {\n    content:'Högskolan i kalmar';\n    clear:both;\n    display:block;\n    font-style:italic;\n    font-size:0.6em;\n}"],[0,"\n\n#menu {\n  "]],"start1":2108,"start2":2108,"length1":24,"length2":162}]],"length":2830,"saved":false}
+{"ts":1380889652719,"patch":[[{"diffs":[[0,"th;\n    "],[-1,"display:none"],[1,"visibility:hidden"],[0,";\n    fo"]],"start1":2053,"start2":2053,"length1":28,"length2":33}]],"length":2835,"saved":false}
+{"ts":1380889663838,"patch":[[{"diffs":[[0,"    "],[-1,"display:block"],[1,"visibility:visible"],[0,";\n  "]],"start1":2199,"start2":2199,"length1":21,"length2":26}]],"length":2840,"saved":false}
+{"ts":1380889681896,"patch":[[{"diffs":[[0,"font-size:0."],[-1,"6"],[1,"8"],[0,"em;\n}\n\n#menu"]],"start1":2250,"start2":2250,"length1":25,"length2":25}]],"length":2840,"saved":false}
+{"ts":1380889690768,"patch":[[{"diffs":[[0,"  font-size:"],[-1,"0.8"],[1,"1"],[0,"em;\n}\n\n#menu"]],"start1":2248,"start2":2248,"length1":27,"length2":25}]],"length":2838,"saved":false}
+{"ts":1380889702397,"patch":[[{"diffs":[[0,"ontent:'"],[1,"&copy; "],[0,"Högskola"]],"start1":2154,"start2":2154,"length1":16,"length2":23}]],"length":2845,"saved":false}
+{"ts":1380889737355,"patch":[[{"diffs":[[0,"nt:'"],[-1,"&copy;"],[1,"\\00a9"],[0," Hög"]],"start1":2158,"start2":2158,"length1":14,"length2":13}]],"length":2844,"saved":false}
+{"ts":1380889770791,"patch":[[{"diffs":[[0,"    clear:both;\n"],[1,"    margin-left:100px;\n"],[0,"    visibility:v"]],"start1":2189,"start2":2189,"length1":32,"length2":55}]],"length":2867,"saved":false}
+{"ts":1380889776039,"patch":[[{"diffs":[[0,"in-left:"],[1,"-"],[0,"100px;\n "]],"start1":2213,"start2":2213,"length1":16,"length2":17}]],"length":2868,"saved":false}
+{"ts":1380889779731,"patch":[[{"diffs":[[0,"n-left:-"],[-1,"1"],[1,"2"],[0,"00px;\n  "]],"start1":2214,"start2":2214,"length1":17,"length2":17}]],"length":2868,"saved":false}
+{"ts":1380889784595,"patch":[[{"diffs":[[0,"-left:-2"],[-1,"0"],[1,"5"],[0,"0px;\n   "]],"start1":2215,"start2":2215,"length1":17,"length2":17}]],"length":2868,"saved":false}
+{"ts":1380889788673,"patch":[[{"diffs":[[0,"-left:-2"],[-1,"5"],[1,"8"],[0,"0px;\n   "]],"start1":2215,"start2":2215,"length1":17,"length2":17}]],"length":2868,"saved":false}
+{"ts":1380889825598,"patch":[[{"diffs":[[0,"n i "],[-1,"k"],[1,"K"],[0,"almar"],[1,", Institutionen för kommunikation och design"],[0,"';\n "]],"start1":2176,"start2":2176,"length1":14,"length2":58}]],"length":2912,"saved":false}
+{"ts":1380889929874,"patch":[[{"diffs":[[0,"33%;\n}\n\n"],[1,"//copyright-texten på bilden matchar inte den i html-dokumentet, därför ersätter vi den nedan.\n"],[0,"#bottomc"]],"start1":2016,"start2":2016,"length1":16,"length2":111},{"diffs":[[0,".6em;\n}\n"],[1,"\n"],[0,"#bottomc"]],"start1":2213,"start2":2213,"length1":16,"length2":17}]],"length":3008,"saved":false}
+{"ts":1380889944272,"patch":[[{"diffs":[[0,"3%;\n}\n\n/"],[-1,"/"],[1,"* "],[0,"copyrigh"]],"start1":2017,"start2":2017,"length1":17,"length2":18},{"diffs":[[0,"n nedan."],[1," */"],[0,"\n#bottom"]],"start1":2111,"start2":2111,"length1":16,"length2":19}]],"length":3012,"saved":false}
