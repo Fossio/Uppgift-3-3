@@ -7,11 +7,21 @@
 #container {
     width:600px;
     margin:0 auto;
+    background-color:#4f463c;
+    border:1px solid #ccc8b8;
 }
 
 #topbar {
-    height:230px;
+    height:216px;
+    padding-top:3px;
     text-align:right;
+    font-family:Verdana;
+    font-size:0.6em;
+    font-style:italic;
+    color:#e8e5d1;
+    background-image:url('pics/coffey.jpg');
+    background-repeat:no-repeat;
+    background-position:bottom;
 }
 
 #maincontent {
